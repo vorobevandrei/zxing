@@ -369,8 +369,9 @@ public final class Code128Writer extends OneDimensionalCodeWriter {
 
     static final String A = """
                              !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_ \
-                            	
-                            \
+                            
+                            
+\
                             \
                             ÿ""";
     static final String B = " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqr" +
