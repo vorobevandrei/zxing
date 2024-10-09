@@ -149,7 +149,7 @@ public final class CalendarParsedResultTestCase extends Assert {
         BEGIN:VEVENT
         DTSTART:20080504T123456Z
         DESCRIPTION:This is a test
-        	 with a continuation
+           with a continuation
         END:VEVENT
         END:VCALENDAR""",
         "This is a test with a continuation", null, null, "20080504T123456Z", null);
